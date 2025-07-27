@@ -10,6 +10,12 @@ A structured MySQL database project designed to support restaurant operations, i
 </p>
 
 ## QuickDBD Diagram
+<p align="center">
+  <a href="https://postimg.cc/tnzh4DcM">
+    <img src="https://i.postimg.cc/prwkk6JR/QuickDBD.png" alt="QuickDBD Diagram" width="500"/>
+  </a>
+</p>
+
 
 ## Tools & Technologies
 - **MySQL** – Database design and querying
