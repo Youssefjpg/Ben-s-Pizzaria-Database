@@ -3,20 +3,21 @@
 A structured MySQL database project designed to support restaurant operations, including customer orders, inventory tracking, menu management, and staff scheduling.
 
 ## QuickDBD Diagram
-![Alt text](QuickDBD.png)
+![Database Schema](QuickDBD.png)
 
-## 🛠 Tools & Technologies
+
+## Tools & Technologies
 - **MySQL** – Database design and querying
 - **Navicat** – Data import/export and SQL execution
 - **QuickDBD** – Entity-relationship (ER) diagram modeling
 - **Excel** – Data planning and transformation
 
-## 📁 Project Structure
+## Project Structure
 - `Ben's Pizzaria.sql` – SQL dump file with table definitions and populated data
 - `QuickDBD-Ben's Pizza.sql` – Auto-generated schema from QuickDBD (ER diagram format)
 - `README.md` – Project overview
 
-## 📊 Features
+## Features
 - 10+ normalized tables covering:
   - Customer and address data  
   - Order processing  
@@ -26,12 +27,12 @@ A structured MySQL database project designed to support restaurant operations, i
 - 100+ customer records, 30+ menu items, and full inventory simulation  
 - Use of `PRIMARY KEY`, `FOREIGN KEY`, and data type constraints to maintain data integrity
 
-## 🚀 How to Use
+## How to Use
 1. Import `Ben's Pizzaria.sql` into your MySQL database using Navicat or any MySQL client
 2. Run queries or expand schema for new features
 3. View `QuickDBD-Ben's Pizza.sql` to understand table relationships
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 - Relational database design  
 - Data modeling and normalization  
 - SQL scripting and automation  
