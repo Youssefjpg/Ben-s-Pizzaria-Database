@@ -3,16 +3,18 @@
 A structured MySQL database project designed to support restaurant operations, including customer orders, inventory tracking, menu management, and staff scheduling.
 
 ## Ben's Pizzaria Menu
-[![Screenshot-2023-09-25-210248.png](https://i.postimg.cc/hPVN6Lzp/Screenshot-2023-09-25-210248.png)](https://postimg.cc/CzLvff4q)
-
-## QuickDBD Diagram
 <p align="center">
   <a href="https://postimg.cc/CzLvff4q">
     <img src="https://i.postimg.cc/hPVN6Lzp/Screenshot-2023-09-25-210248.png" alt="Screenshot" width="500"/>
   </a>
 </p>
 
-
+## QuickDBD Diagram
+<p align="center">
+  <a href="https://postimg.cc/tnzh4DcM">
+    <img src="https://i.postimg.cc/prwkk6JR/QuickDBD.png" alt="QuickDBD Schema" width="500"/>
+  </a>
+</p>
 
 ## Tools & Technologies
 - **MySQL** – Database design and querying
