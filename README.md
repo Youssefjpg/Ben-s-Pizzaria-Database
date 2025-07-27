@@ -3,7 +3,7 @@
 A structured MySQL database project designed to support restaurant operations, including customer orders, inventory tracking, menu management, and staff scheduling.
 
 ## QuickDBD Diagram
-![Database Schema](QuickDBD.png)
+[![QuickDBD.png](https://i.postimg.cc/prwkk6JR/QuickDBD.png)](https://postimg.cc/tnzh4DcM)
 
 
 ## Tools & Technologies
